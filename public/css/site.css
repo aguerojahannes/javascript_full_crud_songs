@@ -1,0 +1,14 @@
+body {
+   background-color: #2a2c37;
+   background-image: url("http://dinamagazine.com/sites/default/files/styles/galleryformatter_slide/public/%5Btitle%5D/images/JPAGplusheader.jpg");
+}
+
+h1 {
+   text-align: center;
+   color: #ffffff;
+   text-shadow: 2px 2px #000000;
+}
+
+.formcenter {
+   margin: auto;
+}
